@@ -14,7 +14,8 @@
 
 The Executive Dashboard provides HR leaders with an interactive overview of employee attrition, workforce performance, compensation trends, and key HR metrics. Interactive slicers allow dynamic analysis across different employee segments.
 
-![Executive Dashboard] (dashboard.png)
+ ![Dashboard](dashboard.png) 
+
 
 ---
 
