@@ -8,16 +8,9 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-# 📸 Dashboard Preview
-
-The Executive Dashboard provides HR leaders with an interactive overview of employee attrition, workforce performance, compensation trends, and key HR metrics. Interactive slicers allow dynamic analysis across different employee segments.
-
- ![Dashboard](dashboard.png) 
 
 
----
+
 
 # 📌 Project Overview
 
