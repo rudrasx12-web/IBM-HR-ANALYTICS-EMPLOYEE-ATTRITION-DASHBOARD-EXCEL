@@ -17,7 +17,7 @@ The Executive Dashboard provides HR leaders with an interactive overview of empl
 
 > **Replace the image below after uploading your dashboard screenshot to the `screenshots` folder.**
 
-![Executive Dashboard](Dashboard.png)
+(Dashboard.png)
 
 ---
 
