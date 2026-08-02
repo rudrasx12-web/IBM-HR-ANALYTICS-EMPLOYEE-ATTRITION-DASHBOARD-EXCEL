@@ -1,4 +1,3 @@
-# IBM-HR-ANALYTICS-EMPLOYEE-ATTRITION-DASHBOARD-EXCEL
 # 📊 IBM HR Analytics Dashboard | End-to-End Microsoft Excel Business Analytics Project
 
 > **An end-to-end HR Analytics solution built entirely in Microsoft Excel using the IBM HR Analytics Employee Attrition & Performance dataset.**
@@ -12,13 +11,12 @@
 ---
 
 # 📸 Dashboard Preview
-![Executive Dashboard](./Dashboard..png)
 
 The Executive Dashboard provides HR leaders with an interactive overview of employee attrition, workforce performance, compensation trends, and key HR metrics. Interactive slicers allow dynamic analysis across different employee segments.
 
 > **Replace the image below after uploading your dashboard screenshot to the `screenshots` folder.**
 
-(Dashboard.png)
+![Executive Dashboard](screenshots/dashboard.png)
 
 ---
 
